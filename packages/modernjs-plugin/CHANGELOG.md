@@ -1,5 +1,12 @@
 # @webx-kit/modernjs-plugin
 
+## 0.1.1
+
+### Patch Changes
+
+- 96fc63c: chore: lock core-plugin at the same version
+  - @webx-kit/core-plugin@0.1.1
+
 ## 0.1.0
 
 ### Minor Changes
