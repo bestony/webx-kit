@@ -1,6 +1,6 @@
 {
   "name": "@webx-kit/chrome-types",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "exports": {
     ".": {
       "types": "./src/index.d.ts",
@@ -19,7 +19,7 @@
     "lint:type": "tsc --noEmit"
   },
   "dependencies": {
-    "@types/chrome": "^0.0.326"
+    "@types/chrome": "^0.0.328"
   },
   "devDependencies": {
     "typescript": "^5.8.3"
